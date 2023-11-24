@@ -49,6 +49,6 @@ aparecer um menu para gerenciar suas tarefas.
 O projeto foi desenvolvido em grupo por:
 
 -   [Matheus Gabriel Nogueira](https://github.com/eomgn)
--   [Gabriella](https://github.com/eomgn)
--   [Karisma](https://github.com/eomgn)
--   [Lucas](https://github.com/eomgn)
+-   [Gabriella Freitas de Sena](https://github.com/GabriellaFsena)
+-   [Karisma Sousa](https://github.com/karismasousa)
+-   [Lucas de Grande da Silva](https://github.com/lucasdegrande95)
